@@ -1,75 +1,15 @@
-# Nuxt UI Minimal Starter
+# Guess the random number
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
+## Harder random number guesser built for High Seas
 
-## Setup
+While normal random number guessers are relatively easy to beat, this one is at another level.
+When you normally try to guess a number you usually get it within a few tries.
+But with this new random number guesser, everything is random. You only have one try to guess the number.
+And the number on the screen changes randomly 10 times a second.
+So even if you do see the number, your human reaction time won't be quick enough!!
 
-Make sure to install the dependencies:
+## But nevertheless, try and guess the number.
 
-```bash
-# npm
-npm install
+## And who knows what might happen when you do!
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## So good luck pirate!
