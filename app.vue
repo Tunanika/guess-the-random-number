@@ -10,6 +10,7 @@
       <a class="text-amber-600">{{ actuallyRandomNumber }}</a>
     </h1>
     <div class="text-5xl mt-10">{{ randomNumber }}</div>
+    <UMeter :value="randomNumber" indicator class="w-1/2 mt-12" />
     <button
       @click="stopRandomNumber"
       class="mt-5 px-4 py-2 bg-blue-500 text-white rounded"
